@@ -1,6 +1,6 @@
-- 👋 Hi, I’m hassan naveed
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Redux
+- 👋 Hi, I’m Hassan Naveed
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning Redux & Back-End 
 - 📫 How to reach me @hassannaveed327 twitter
 
 <!---
