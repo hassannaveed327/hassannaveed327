@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hassan Naveed
-- 👀 I’m interested in Full Stack Web Development
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently getting familier Redux & Back-End(MERN)
 - 📫 How to reach me @hassannaveed327 twitter
 
