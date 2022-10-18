@@ -12,13 +12,7 @@
 - 💬 Ask me about **React, Redux And Solidity**
 
 - 📫 How to reach me **hassannaveed0284@gmail.com**
-<style>
-a
-{
-  margin: 100px
-}
-
-</style>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
