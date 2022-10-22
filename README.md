@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Naveed</h1>
-<h3 align="center">A  Front ENdDeveloper from Pakistan</h3>
+<h3 align="center">A  Front-end Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassannaveed327&label=Profile%20views&color=0e75b6&style=flat" alt="hassannaveed327" /> </p>
 
@@ -28,3 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassannaveed327&show_icons=true&locale=en&layout=compact" alt="hassannaveed327" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassannaveed327&show_icons=true&locale=en" alt="hassannaveed327" /></p>
+
