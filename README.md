@@ -84,14 +84,6 @@ A bit about Myself, I am Hassan Naveed 👨‍💻 pursuing my Computer Science 
 
   
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=hassannaveed327&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
 
 
 <br />
