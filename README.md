@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://pbs.twimg.com/profile_banners/1568932771946500097/1664625959/1500x500" align="center" style="width: 100%" />
+<img src="https://pbs.twimg.com/profile_banners/1568932771946500097/1664625959/1500x500" align="center" style="width: 100% margin-bottom:70px" />
 </div>  
   
 
-A bit about Myself, I amHassan Naveed 👨‍💻 pursuing my Computer Science Degree currently in my pre-final year, As of now, I am focused on web development Learning but still, wish to explore many fields. ⚡  
+A bit about Myself, I am Hassan Naveed 👨‍💻 pursuing my Computer Science Degree currently in my pre-final year, As of now, I am focused on web development Learning but still, wish to explore many fields. ⚡  
   
 
 - 🔭 I’m currently working on [YouTube Clone](https://github.com/hassannaveed327/Youtube-Clone-V3)  
@@ -47,10 +47,7 @@ A bit about Myself, I amHassan Naveed 👨‍💻 pursuing my Computer Science D
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
@@ -78,19 +75,6 @@ A bit about Myself, I amHassan Naveed 👨‍💻 pursuing my Computer Science D
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hassannaveed327&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
 <br/>  
 
 <div align="center">
@@ -104,4 +88,4 @@ A bit about Myself, I amHassan Naveed 👨‍💻 pursuing my Computer Science D
 <br />
 
 ----
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=hassannaveed327&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Hassan Naveed327" /><td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SauravMukherjee44&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hassannaveed" /></td></tr></table><div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassannaveed327&theme=dark" alt="hassannaveed" /></p></div>[![hassannaveed327's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hassannaveed327&theme=xcode)](https://git.io/SauravMukherjee44)
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=hassannaveed327&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Hassan Naveed327" /><td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassannaveed327&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hassannaveed" /></td></tr></table><div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassannaveed327&theme=dark" alt="hassannaveed" /></p>
