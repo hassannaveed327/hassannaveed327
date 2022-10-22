@@ -1,11 +1,12 @@
-<div align="center">
+<div align="center" style="margin-bottom=70px">
 <img src="https://pbs.twimg.com/profile_banners/1568932771946500097/1664625959/1500x500" align="center" style="width: 100%" />
 </div>  
+<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
   
 
 
 
-A bit about Myself, I amHassan Naveed 👨‍💻 pursuing my Computer Science Degree currently in my pre-final year, As of now, I am focused on web development Learning but still, wish to explore many fields. ⚡  
+A bit about Myself, I am Hassan Naveed 👨‍💻 pursuing my Computer Science Degree currently in my 3rd final year, As of now, I am focused on web development Learning but still, wish to explore many fields. ⚡  
   
 
 - 🔭 I’m currently working on [YouTube Clone](https://github.com/hassannaveed327/Youtube-Clone-V3)  
@@ -14,7 +15,8 @@ A bit about Myself, I amHassan Naveed 👨‍💻 pursuing my Computer Science D
 - 🌱 I’m currently learning Node.js  
   
 
-- ❓ Ask me about anything related to MERN stack and Web 3  
+- ❓ Ask me about anything related to MERN stack and Web 3 .
+
   
 
 <br/>  
@@ -26,7 +28,7 @@ A bit about Myself, I amHassan Naveed 👨‍💻 pursuing my Computer Science D
 
 
 ### Frontend  
-<div align="center">  
+<div  align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -48,9 +50,7 @@ A bit about Myself, I amHassan Naveed 👨‍💻 pursuing my Computer Science D
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td>
 
 </td></tr></table>  
 
@@ -78,17 +78,8 @@ A bit about Myself, I amHassan Naveed 👨‍💻 pursuing my Computer Science D
   
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hassannaveed327&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
   
-
+  
 <br/>  
 
   
@@ -105,5 +96,16 @@ A bit about Myself, I amHassan Naveed 👨‍💻 pursuing my Computer Science D
 
 <br />
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=hassannaveed327&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=hassannaveed327&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Hassan Naveed327" /><td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassannaveed327&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hassannaveed" /></td></tr></table><div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassannaveed327&theme=dark" alt="hassannaveed" /></p>
+
