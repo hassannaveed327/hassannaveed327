@@ -6,7 +6,7 @@
 
 
 
-A bit about Myself, I am Hassan Naveed 👨‍💻 pursuing my Computer Science Degree currently in my 3rd final year, As of now, I am focused on web development Learning but still, wish to explore many fields. ⚡  
+A bit about Myself, I am Hassan Naveed 👨‍💻 pursuing my Computer Science Degree currently in my 3rd final year, As of now, I am focused on web development Learning but still,  wish to explore many fields. ⚡  
   
 
   
