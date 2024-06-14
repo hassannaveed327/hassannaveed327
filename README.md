@@ -1,7 +1,7 @@
 <div align="center" style="margin-bottom=70px">
 <img src="https://pbs.twimg.com/profile_banners/1568932771946500097/1664625959/1500x500" align="center" style="width: 100%" />
 </div>  
-<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
+<img width="40%" align="right"   src="https://media.licdn.com/dms/image/D4D16AQHr4yK9kVlHmA/profile-displaybackgroundimage-shrink_350_1400/0/1716282063433?e=1723680000&v=beta&t=iPpVeqW5jm3excm7tKTLmjP-j4SKylj5qc6wk6JdjbQ" >
   
 
 
