@@ -2,7 +2,9 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQHr4yK9kVlHmA/profile-displaybackgroundimage-shrink_350_1400/0/1716282063433?e=1723680000&v=beta&t=iPpVeqW5jm3excm7tKTLmjP-j4SKylj5qc6wk6JdjbQ" align="center" style="width: 100%" />
 </div>   
   
-
+<br/>
+<br/>
+<br/>
 
 Motivated and detail-oriented Junior Full Stack Developer with a solid foundation in web development and a passion for creating
 efficient and scalable solutions. Eager to contribute to a dynamic development team and enhance skills through hands-on experience. ⚡  
