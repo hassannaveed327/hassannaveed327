@@ -4,8 +4,8 @@
   
 
 
-
-A bit about Myself, I am Hassan Naveed 👨‍💻 pursuing my Computer Science Degree currently in my 3rd final year, As of now, I am focused on web development Learning but still,  wish to explore many fields. ⚡  
+Motivated and detail-oriented Junior Full Stack Developer with a solid foundation in web development and a passion for creating
+efficient and scalable solutions. Eager to contribute to a dynamic development team and enhance skills through hands-on experience. ⚡  
   
 
   
