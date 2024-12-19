@@ -3,8 +3,11 @@
 </div>    -->
  
 
-Motivated and detail-oriented Junior Full Stack Developer with a solid foundation in web development and a passion for creating
-efficient and scalable solutions. Eager to contribute to a dynamic development team and enhance skills through hands-on experience. ⚡  
+As a Software Engineer specializing in MERN stack development, I excel at scaling web applications using cutting-edge Web3 technologies. My expertise enables me to drive innovation and build impactful solutions, while continuously expanding my skills through my BSCS studies at The University of Faisalabad.
+
+I thrive on tackling complex challenges in full-stack development, crafting responsive and efficient web applications. My passion for emerging technologies and dedication to professional growth keep me at the forefront of the dynamic field of software engineering.
+
+
   
 
 <br/>  
