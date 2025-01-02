@@ -9,7 +9,8 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 - **Tools:** Git, Docker, WebStorm, VS Code 
 
 ## 💼 Professional Experience
-- **Software Engineer at TheParthenon:** Developed scalable web applications and microservices using modern technologies.
+- **Software Engineer at TheParthenon:** Developed scalable web applications and maintaiined them using modern technologies.
+- **ASE at Bloctech Solutions:** Worked on web3 projects.
 - **Intern at IT Empire:** Assisted in building and maintaining internal tools and automation scripts.
 
 ## 📫 How to Reach Me
