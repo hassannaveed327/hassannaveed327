@@ -40,15 +40,15 @@
 <!--LIVE:START-->
 <div align="center">
 
-📦 **23** public repos&ensp;·&ensp;⭐ **0** stars&ensp;·&ensp;👥 **10** followers&ensp;·&ensp;🔄 synced **2026-08-02**
+📦 **24** public repos&ensp;·&ensp;⭐ **0** stars&ensp;·&ensp;👥 **10** followers&ensp;·&ensp;🔄 synced **2026-08-02**
 
 </div>
 
 **Recently pushed:**
 
+- [**rag-express-starter**](https://github.com/hassannaveed327/rag-express-starter) — Production-shaped RAG API in plain Node.js — Express + LangChain + FAISS + Ollama. Local-first: your documents never leave your machine. `JavaScript`
 - [**hassannaveed327**](https://github.com/hassannaveed327/hassannaveed327) — Config files for my GitHub profile. `JavaScript`
 - [**nejobi-web-app**](https://github.com/hassannaveed327/nejobi-web-app) `TypeScript`
-- [**aws-bucket-script**](https://github.com/hassannaveed327/aws-bucket-script) `JavaScript`
 <!--LIVE:END-->
 
 ## 🛠️ Tech stack
