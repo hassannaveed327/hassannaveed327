@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300">
+  <style>
+    text { font-family: "SFMono-Regular", Consolas, Menlo, monospace; font-size: 13.5px; }
+    .line { opacity: 0; animation: fade 500ms ease-out forwards; }
+    .l1 { animation-delay: .10s } .l2 { animation-delay: .25s } .l3 { animation-delay: .40s }
+    .l4 { animation-delay: .55s } .l5 { animation-delay: .70s } .l6 { animation-delay: .85s }
+    .l7 { animation-delay: 1.0s } .l8 { animation-delay: 1.15s }
+    @keyframes fade { to { opacity: 1; } }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .n { fill: #4d5661; }
+    .m { fill: #9aa1ab; }
+    .k { fill: #e2a13c; }
+    .v { fill: #e8e6e1; }
+  </style>
+  <rect x="0.5" y="0.5" width="559" height="299" rx="14" fill="#151a20" stroke="#232a33"/>
+  <line x1="1" y1="42" x2="559" y2="42" stroke="#232a33"/>
+  <text x="22" y="27" class="m" font-size="12.5">content/<tspan class="k">profile.json</tspan></text>
+
+  <text class="line l1" x="24" y="72"><tspan class="n">1</tspan><tspan class="m" x="56">{</tspan></text>
+  <text class="line l2" x="24" y="98"><tspan class="n">2</tspan><tspan x="76" class="m">"<tspan class="k">name</tspan>": </tspan><tspan class="v">"Hassan Naveed"</tspan><tspan class="m">,</tspan></text>
+  <text class="line l3" x="24" y="124"><tspan class="n">3</tspan><tspan x="76" class="m">"<tspan class="k">title</tspan>": </tspan><tspan class="v">"Senior Software Engineer"</tspan><tspan class="m">,</tspan></text>
+  <text class="line l4" x="24" y="150"><tspan class="n">4</tspan><tspan x="76" class="m">"<tspan class="k">experience</tspan>": </tspan><tspan class="v">"3+ years"</tspan><tspan class="m">,</tspan></text>
+  <text class="line l5" x="24" y="176"><tspan class="n">5</tspan><tspan x="76" class="m">"<tspan class="k">stacks</tspan>": [</tspan><tspan class="v">"MERN", "MEAN", "RAG"</tspan><tspan class="m">],</tspan></text>
+  <text class="line l6" x="24" y="202"><tspan class="n">6</tspan><tspan x="76" class="m">"<tspan class="k">email</tspan>": </tspan><tspan class="v">"hassandev327@gmail.com"</tspan><tspan class="m">,</tspan></text>
+  <text class="line l7" x="24" y="228"><tspan class="n">7</tspan><tspan x="76" class="m">"<tspan class="k">website</tspan>": </tspan><tspan class="v">"hassan-naveed.vercel.app"</tspan></text>
+  <text class="line l8" x="24" y="254"><tspan class="n">8</tspan><tspan class="m" x="56">}</tspan><tspan class="cursor k"> ▍</tspan></text>
+
+  <text x="24" y="284" class="m" font-size="11.5"><tspan class="k">//</tspan> my portfolio renders every section from this file</text>
+</svg>
