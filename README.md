@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi, I'm Hassan Naveed 👋
-
 <a href="https://hassan-naveed.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=E2A13C&center=true&vCenter=true&width=560&lines=Senior+Software+Engineer;Full-Stack+%C2%B7+MERN+%2F+MEAN+%2F+Laravel;SaaS+%C2%B7+Real-time+%C2%B7+AI+%2F+RAG;3%2B+years+shipping+products+end+to+end" alt="Senior Software Engineer — Full-Stack · SaaS · AI/RAG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg"/>
+  <img src="assets/banner-dark.svg" width="1000" alt="Hassan Naveed — Senior Software Engineer · Full-Stack · SaaS · AI/RAG"/>
+</picture>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://hassan-naveed.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hassan--naveed.vercel.app-E2A13C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/hassannaveed327"><img src="https://img.shields.io/badge/LinkedIn-hassannaveed327-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -17,8 +19,6 @@
 
 </div>
 
----
-
 ## 🧑‍💻 About me
 
 - 🏢 **Senior Software Engineer @ DevPower** (remote) — leading cross-functional teams and owning full-stack SaaS delivery end to end
@@ -26,7 +26,30 @@
 - 🤖 Ship **AI/RAG features**: LangChain, FAISS vector search, Ollama, OpenAI API, Vercel AI SDK
 - 📱 Cross-platform too — **React Native** apps sharing backends with Next.js webs
 - 🌍 Faisalabad, Pakistan · English & Urdu
-- ⚡ Fun fact: my [portfolio](https://hassan-naveed.vercel.app) renders every section from a single `profile.json` — press <kbd>⌘K</kbd> or <kbd>~</kbd> on it
+
+<div align="center">
+
+<a href="https://hassan-naveed.vercel.app"><img src="assets/profile-card.svg" width="560" alt="content/profile.json — the single file my portfolio renders from"/></a>
+
+*One data file drives my whole [portfolio](https://hassan-naveed.vercel.app) — try <kbd>⌘K</kbd> or <kbd>~</kbd> on it. This README maintains itself the same way, via GitHub Actions.*
+
+</div>
+
+## ⚡ Live from the GitHub API
+
+<!--LIVE:START-->
+<div align="center">
+
+📦 **23** public repos&ensp;·&ensp;⭐ **0** stars&ensp;·&ensp;👥 **10** followers&ensp;·&ensp;🔄 synced **2026-08-02**
+
+</div>
+
+**Recently pushed:**
+
+- [**hassannaveed327**](https://github.com/hassannaveed327/hassannaveed327) — Config files for my GitHub profile. `JavaScript`
+- [**nejobi-web-app**](https://github.com/hassannaveed327/nejobi-web-app) `TypeScript`
+- [**aws-bucket-script**](https://github.com/hassannaveed327/aws-bucket-script) `JavaScript`
+<!--LIVE:END-->
 
 ## 🛠️ Tech stack
 
@@ -90,6 +113,6 @@
 
 <div align="center">
 
-*This README updates itself: stats cards render live and the snake regenerates daily via GitHub Actions.*
+*Hand-built SVG banner & card (no generators) · live section refreshed daily by [`update-readme.yml`](.github/workflows/update-readme.yml) · snake by [`snake.yml`](.github/workflows/snake.yml)*
 
 </div>
