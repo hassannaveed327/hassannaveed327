@@ -40,14 +40,14 @@
 <!--LIVE:START-->
 <div align="center">
 
-📦 **25** public repos&ensp;·&ensp;⭐ **0** stars&ensp;·&ensp;👥 **10** followers&ensp;·&ensp;🔄 synced **2026-08-02**
+📦 **25** public repos&ensp;·&ensp;⭐ **0** stars&ensp;·&ensp;👥 **10** followers&ensp;·&ensp;🔄 synced **2026-08-03**
 
 </div>
 
 **Recently pushed:**
 
-- [**billing-bridge**](https://github.com/hassannaveed327/billing-bridge) — One canonical subscription event stream from many payment providers. Zero-dependency webhook normalization for Stripe + RevenueCat. `TypeScript`
 - [**hassannaveed327**](https://github.com/hassannaveed327/hassannaveed327) — Config files for my GitHub profile. `JavaScript`
+- [**billing-bridge**](https://github.com/hassannaveed327/billing-bridge) — One canonical subscription event stream from many payment providers. Zero-dependency webhook normalization for Stripe + RevenueCat. `TypeScript`
 - [**rag-express-starter**](https://github.com/hassannaveed327/rag-express-starter) — Production-shaped RAG API in plain Node.js — Express + LangChain + FAISS + Ollama. Local-first: your documents never leave your machine. `JavaScript`
 <!--LIVE:END-->
 
